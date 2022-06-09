@@ -3,4 +3,4 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo Let's roll
+      - echo This is test1
